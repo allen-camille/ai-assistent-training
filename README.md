@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allen-camille/ai-assistent-training/refs/heads/main/ai-assistant-banner.png" width="650" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 6px;" />
+</p>
+
+
+
 # AI Assistent (Träningsversion) – v1.0
 En tränings-AI-assistent designad för dokumentanalys, informationsklassning och riskbedömning. 
 Assistenten använder arbetsflöden, RAG-baserad filanalys och en inbyggd self-critique-mekanism 
