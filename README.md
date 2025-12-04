@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allen-camille/ai-assistent-training/refs/heads/main/ai-assistant-banner.png" width="650" style="box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 6px;" />
+  <img src="https://raw.githubusercontent.com/allen-camille/ai-assistent-training/main/ai-assistant-banner.png"
+       width="650"
+       style="border:1px solid #ddd; padding:4px;" />
 </p>
 
 
